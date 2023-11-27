@@ -656,6 +656,10 @@ footer span a:hover{
     .contact .right form .email{
         margin: 0;
     }
+    .about .about-content .left img{
+        height: 250px;
+        width: 250px;
+    }
     .right form .error-box{
        width: 150px;
     }
