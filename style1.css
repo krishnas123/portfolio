@@ -663,10 +663,16 @@ footer span a:hover{
     .right form .error-box{
        width: 150px;
     }
+    .direction{
+        padding: 5px;
+        font-size: 7px;
+        margin-top: 17px;
+    }
     .about .about-content .right a{
-        font-size: 15px;
+        font-size: 12px;
         padding: 5px 15px;
         margin-top: 20px;
+        margin-left: 2px;
         
     }
     .scroll-up-btn{
