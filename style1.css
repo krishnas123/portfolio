@@ -671,15 +671,4 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-    .social{
-        font-size: 8px;
-    }
-    .direction{
-        padding: 5px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 63px;
-        border-radius: 5px;
-    }
 }
